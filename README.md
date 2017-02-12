@@ -1,2 +1,2 @@
 # MachineLearningCourse
-Scripts from Machine Learning Course
+Scripts from Machine Learning Course using IPython Notebook and Graphlab Create.
